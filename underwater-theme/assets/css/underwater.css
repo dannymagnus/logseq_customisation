@@ -36,7 +36,7 @@ h1,h2,h3,h4,h5,h6{
     padding:1em;
 }
 
-.cp__sidebar-main-content,.journal-page{
+.max-w-7xl.mx-auto.pb-24{
     background-color:rgba(177, 211, 242,0.9);
     padding:1em;
 }
