@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,300;1,400&family=Roboto:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+/*@font-face {
+  font-family: "JetBrains Mono Nerd";
+  font-weight: 200 300 900;
+  font-style: noarmal;
+  font-stretch: normal;
+  src: url("https://dannymagnus.myqnapcloud.com:1006/share.cgi?ssid=c8c391817cb54160ab9360bafdbc81d1&fid=c8c391817cb54160ab9360bafdbc81d1&filename=Helvetica%20Neue%20UltraLight.ttf&openfolder=forcedownload&ep=");
+}*/
+
+:root {
+  --ct-text-size: 22px;
+  --ct-line-height: 1.6;
+  --ls-font-family: "Only Emoji", "Lato";
+  --ct-page-title-font-family: var(--ls-font-family);
+  --ct-code-font-family: "Lato";
+}
+
+body{
+  font-size:18px;
+  font-weight:300;
+  background-color:lightblue;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family:"Roboto", sans-serif;
+}
+
+#main-container{
+  background-image:url("https://dannymagnus.myqnapcloud.com:1006/share.cgi?ssid=1a7851c685e04ae785d928d1f2ca14fa&fid=1a7851c685e04ae785d928d1f2ca14fa&filename=brown-coral.jpg&openfolder=forcedownload&ep=");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+#journals>div{
+  background-color:rgba(177, 211, 242,0.9);
+}
+
+/* src: url("https://dannymagnus.myqnapcloud.com:1006/share.cgi?ssid=1db01043fac3418e9880e0dc5acfd704&fid=1db01043fac3418e9880e0dc5acfd704&filename=hemi%20head%20bd%20it.ttf&openfolder=forcedownload&ep=");
+
+Aurora - https://dannymagnus.myqnapcloud.com:1006/share.cgi?ssid=ebd1d76120b040bbbbf2cb6181203ade&fid=ebd1d76120b040bbbbf2cb6181203ade&filename=Aurora-E009.ttf&openfolder=forcedownload&ep= 
+Helvetica Neue Ultra Light - https://dannymagnus.myqnapcloud.com:1006/share.cgi?ssid=c8c391817cb54160ab9360bafdbc81d1&fid=c8c391817cb54160ab9360bafdbc81d1&filename=Helvetica%20Neue%20UltraLight.ttf&openfolder=forcedownload&ep=*/
