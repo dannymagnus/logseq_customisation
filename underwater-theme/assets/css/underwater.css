@@ -36,10 +36,6 @@ h1,h2,h3,h4,h5,h6{
     padding:1em;
 }
 
-#journals>div{
-    background-color:rgba(177, 211, 242,0.9);
-}
-
 .cp__sidebar-main-content{
     background-color:rgba(177, 211, 242,0.9);
 }
