@@ -45,24 +45,8 @@ h1,h2,h3,h4,h5,h6{
     background-color:rgba(177, 211, 242,0.9);
 }
 
-#left-sidebar{
-    background-image:url("https://gitcdn.link/cdn/dannymagnus/logseq_customisation/main/underwater-theme/assets/img/smiling-dolphin-removebg-preview.png");
-    background-position: center bottom;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color:steelblue;
-}
-
 .left-sidebar-inner{
-    background-image:url("https://gitcdn.link/cdn/dannymagnus/logseq_customisation/main/underwater-theme/assets/img/smiling-dolphin-removebg-preview.png");
-    background-position: center bottom;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color:steelblue;
-}
-
-.left-sidebar-inner>div{
-    background-image:url("https://gitcdn.link/cdn/dannymagnus/logseq_customisation/main/underwater-theme/assets/img/smiling-dolphin-removebg-preview.png");
+    background-image:url("https://dannymagnus.myqnapcloud.com:1006/share.cgi?ssid=c75dbc6601654c5f953c3b05db3f019a&fid=c75dbc6601654c5f953c3b05db3f019a&filename=smiling-dolphin-removebg-preview.png&openfolder=forcedownload&ep=");
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: contain;
